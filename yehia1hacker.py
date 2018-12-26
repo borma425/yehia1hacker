@@ -203,7 +203,7 @@ def main():
              os.system("apt install mpv")
              os.system("mpv 26.mp3")
              os.system("chmod +x scan.py")
-             os.system("python scan.py")
+             os.system("python2 scan.py")
              print("thanks")
         elif system0 == "27":
              os.system("apt install mpv")
