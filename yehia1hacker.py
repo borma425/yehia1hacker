@@ -71,7 +71,7 @@ def main():
 
 👨‍\033[42m27-- Command Mail Extraction in Metasploit\033[0;37;46m
 
-📱\033[0;101m28-- Virus clear files victim with link \033[0;37;46m
+📱\033[0;101m28-- Virus no space files victim with link \033[0;37;46m
 
 🐲\033[0;36m29-- Virus clear files system and stop windows with link\033[0;37;46m
 
